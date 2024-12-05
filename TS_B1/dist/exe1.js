@@ -1,0 +1,13 @@
+"use strict";
+let age;
+let fullName;
+let check;
+let undi;
+let gg;
+let vid;
+age = 100;
+fullName = "gg mr.beast";
+check = true;
+undi = undefined;
+gg = "gg";
+vid = null;
